@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey, I’m Sahiba Kumari 👋 Frontend Engineer at Clapingo, passionate about clean UI, React, and AI-enabled web apps.
+Hey, I’m Sahiba Kumari 👋 Frontend Engineer @ Clapingo | React, Next.js, TypeScript | Performance Optimization | AI Integration | Building Scalable Web Applications.
 
 
 ## 🌐 Socials:
